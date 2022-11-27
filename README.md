@@ -1,1 +1,2 @@
-# MVVMDemo
+# Shop Item Viewer
+
