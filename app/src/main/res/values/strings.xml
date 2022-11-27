@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Demo</string>
+    <string name="name">Name: </string>
+    <string name="price">Price: </string>
+    <string name= "dollar">$</string>
+    <string name="Rating">Rating</string>
+</resources>
